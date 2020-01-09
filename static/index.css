@@ -1,10 +1,10 @@
 <div class="project">
-	<img class="thumbnail" src="img1.png">
-	<img class="thumbnail" src="img1.png">
+	<img class="thumbnail" src="img1.png" />
+	<img class="thumbnail" src="img2.png" />
 </div>
 
 .project{
-	background: gray;
+	background-color: gray;
 	margin-left: 10px;
 }
 
@@ -15,7 +15,7 @@ img.thumbnail{
 }
 
 .contact-info{
-	fontsize: 10pt;
+	font-size: 10pt;
 	color: #cccccc;
 }
 
